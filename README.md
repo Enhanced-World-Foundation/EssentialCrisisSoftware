@@ -22,7 +22,7 @@ The most resilient network-society is built around decentralization and cooperat
 4 Why Open Source Community / Crowd Development?
 5 License & Contribution Framework (WIP)
 6 We Need You - To Specialists 
-
+7 Who is behind this! ...and more about.
 
 ## 1. Four Operational Scenarios
 
@@ -367,12 +367,78 @@ This isn't a startup. It it might make everyone alive. For You and Your family, 
 - **Mastodon:** [@ecs](https://mastodon.social/@ecs) *(working decentralized comms)*
 - **Mailing List:** [TBD]
 
-    ╭──────────────────────────────────────────────╮
-    │    "Amateurs built the ark.                  │
-    │     Professionals built the Titanic."        │
-    │                                              │
-    │  We're recruiting amateurs with passion.     │
-    ╰──────────────────────────────────────────────╯
+## Who is behind this! - The Non-Founder Founder Model
 
+####Who started ECS?
+Karol Kwestarz-Maciejewski, a system architect who got tired of waiting for someone else to build resilience infrastructure. Drawn blueprints and some of documentation. 
+
+Is he in charge?
+No. Intentionally not.
+
+Why?
+Because the moment a single person becomes essential to the project, you've
+already failed at building resilient infrastructure.
+
+How Decisions Get Made Here
+For Technical and Support related - look CONTRIBUTION.md
+For verification and any other: 
+
+Proposed model (let's refine this together):
+Idea proposed in dedicated channel
+Discussion (72 hours minimum)
+Vote (reaction emoji or formal poll)
+Result logged in #meta channel
+Implementation by volunteers
+
+Enhanced.World Foundation is prepared and planed for registration in 2026 (as Non-Profit in NE, UE) - with mission to use technology for human survival and development, along preventing harmful usage and impact. Seeing ethical values, law and science as tools that guided bring better future. Karol is promoting this in form of commercial entity based in Estonia, Locally4Me Group.
+
+Contributors are credited:
+In GitHub permanently
+In monthly transparency reports
+In governance decisions proportional to contribution
+
+Karol's Current Role:
+If his code sucks, you can fork and do better
+If his architecture is wrong, tell him (publicly)
+He has no veto power (not even author's privilege)
+He votes same as everyone else
+
+How to Participate
+I have an idea for ECS
+→ Post it here. Start discussion. People will respond within 24 hours.
+
+I want to contribute code
+→ Open issue in GitHub or claim existing one. Submit PR. Get reviewed.
+Attribution + future revenue share.
+
+I disagree with Karol's approach
+→ Post here. Debate it. If consensus says he's wrong, he changes direction.
+(Or forks and builds alternate implementation.)
+
+I want governance voice / access to black box'ed modules
+→ Contribute code/docs/organization. Voice weighted by work done.
+(Exact formula TBD by community.)
+
+What is in ECS-black box 
+- data protection, encryption, steganography, safety and privacy, some related sub-modules / plugins
+Next Steps (Your Input Needed)
+
+We need to formalize:
+Voting mechanisms - How do we make fair decisions?
+Contributor tiers - What earns you more voice?
+Dispute resolution - What if people disagree?
+Succession planning - What if Karol gets hit by a bus? 
+
+Your thoughts? Reply in the thread. This is literally your chance to shape
+how the project governs itself before momentum builds.
+
+If you want to help build critical infrastructure that's actually decentralized
+(not just coded decentralization with founder control), welcome home.
+
+Last updated: 29.05
+
+Questions? Reply in thread.
+
+   
 **Version 1.0** | Last updated: May 2026
 
