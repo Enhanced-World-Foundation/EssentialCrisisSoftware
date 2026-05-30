@@ -297,8 +297,8 @@ If you've ever thought:
 4. **Get credited:** Your name, your work, forever in our contributor registry
 5. **Get compensated:** When your module generates revenue, you earn from it
 
-We don't filter for credentials. We filter for commitment.
-
+## IMPORTANT: AI Policy!
+Do not use online AI - only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
 ---
 
 ## A Message to the Skeptical
