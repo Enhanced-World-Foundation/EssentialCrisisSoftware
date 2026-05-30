@@ -10,7 +10,7 @@ There is a gap in the resilience of nations and societies that is not profitable
 
 ECS is being built as infrastructure of last resort: a modular, easy-to-use system with presets and customized setups. An alternative deployable system that works when nothing else does. The work you can be part of will help communities, nations, relatives—in time of need. All contributors will be credited. For details, see CONTRIBUTION.md.
 
-The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail.
+The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail. Like biulding a submarine, it can be done but a lot have to be put in to so all works as intended. Digital Ark.
 
 ##Table of Contents:
 
@@ -20,16 +20,16 @@ The most resilient network-society is built around decentralization and cooperat
 3 Architecture Overview 
 3.1 System Components 
 4 Why Open Source Community / Crowd Development?
-5 License & Contribution Framework (WIP)
-6 We Need You - To Specialists 
-7 Who is behind this! ...and more about.
+5 We Need You - To Specialists 
+6 Who is behind this! ...and more about.
+7 License & Contribution Framework (WIP)
 
 ## 1. Four Operational Scenarios
 
 | Scenario | Conditions | Priority - Threat / Tech Level |
 |----------|------------|------------------------------|
 | **A Internet – .1 Blackout .2 "Dead-Internet"** | ISP/backbone failure, regional outage | High - Low / Theft |
-| **B Civilization – .1 "Event" Solar Flare .2 After WW3 "Fallout"** | Long-term grid-manufacturing collapse, hostile/sick population possibility 51%, proxy comms needed | Mid - Low+ / Low-tech |
+| **B Civilization – .1 "Event" Solar Flare .2 After WW3 "Fallout"** | Long-term grid-manufacturing collapse, hostile/sick population possibility 51%, proxy comms needed | Mid - Medium / Low-tech |
 | **C Modern War – .1 Invasion AI backed up .2 Extinction Threat "Total War"** | Automated signal scanning, active node hunting, partisan-like ops | Mid - Highest / Future Tech |
 | **D Online Cold War – "Hybrid War" Surveillance State Compromised** | Overlapping threat conditions—any that is not covered | Low - High+ / Disrupted Internet & Working Economy |
 
@@ -39,7 +39,7 @@ MVP + Customized Systems Architectures + Power Plans (Scenario Based), Alternati
 
 ## What should be in the MVP? What are the most helpful functionalities?
 
-This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, blocked internet, disabled phone networks, or unavailable electronic payment systems. Client MVP will use BLT technology.
+This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, suplychain distrupments, blocked internet, disabled phone networks, or unavailable electronic payment systems. A ECS Client MVP will use BLT technology.
 
 ### 📦 ECS MVP - Core Framework + UI:
 * **Groups System:** Open / Closed group differentiation.
@@ -91,38 +91,38 @@ Basic Framework - BLT MESH - Basic Logic, Functions and Variables-Templates.
 
 ### Software - Extras / Utilities | Priority: Low
 
-- **E1** – Useful in the Scenario Software
+- **E1** – Software, useful in the Scenario 
 - **E2** – Custom UI / Settings - Guidelines
-- **E2** – Network-Addon Optimization / Processing Portable-Standalone Software
+- **E2** – Network-Addon, Optimization / Processing Portable-Standalone Software
 - **E3** – New functions - modules for the main framework but because of some reason not imported into main validated ecosystem
 
 ### Network Software Types:
 
 #### 1. **"ECS Client" Core** (Portable / Installation)
 - Main P2P client/node utility 
-- Runs on: PC, mobile, embedded devices, unconventional electronics, DIY
-
-**GOAL: Running on conventional (and unconventional) electronic devices:**
+- Compilations that could run on: PC, mobile, embedded devices, unconventional electronics, DIY
+  
 #### 2. **Network Forwarding Node (NFN)**
-- Active or sleeping relay node
+- Active or sleeping relay node,
+- Possibly other system services like for ex. data processing and storadge
 - Continuous or intermittent power operation
-- Extends network range and redundancy
+- Extends network range and redundancy, control over devices (ex. camera)
 
 #### 3. **Pocket Point of Network (PPN | Out-of-ECS Network)**
 - Dedicated hardware deployed in terrain, delivering services for the network/group.
-- Ex. Functions: autonomous message exchange board, data synchronization,control over devices (ex. camera) or data processing.
+- Ex. Functions: autonomous message exchange board, data synchronization, also control over devices or data processing.
 - Independent power, unattended operation
 - Variants: PPN1 (full spectrum), PPN2 (minimal)
 
-#### For scenarios B—C—D:
-F. **HQ "Overtaker":** Software to connect directly and change any scrap electronics/DIY/emitter device into a permanent Network Forwarding Node / Pocket Point—possibly a form of variation of hardware-dedicated device/ USB / mobile.
-- Critical for post-collapse scenarios, re-purposing and chips and devices.
+#### For scenarios B—C:
+F. **HQ "Overtaker":** Software to connect directly and change any scrap electronics/DIY/emitter device into a permanent Network Forwarding Node / Pocket Point—possibly, customization compilation assistance for 1-2-3 types of network roles. Form: hardware-dedicated device/ USB / mobile.
+- Critical for post-collapse scenarios, re-purposing: chips and devices.
 
 ## Development Roadmap
 
 ### Priority Pipeline
 
-0. **MVP** (Frame & Documentation)
+0. **MVP** (Useful tool, Frame & Documentation)
 1. **Scenario-Specific Architectures MVP** (Foundation)
 2. **Complete Realese & Power Plans** (Scenario-based optimization)
 3. **Alternative Sub-modules & Plugins** (Flexibility)
@@ -142,51 +142,12 @@ The project will need a community of developers and various specialists and orga
 
 For help, support, or participation: see CONTRIBUTION.md
 
-Github will be gradually updated. Reading Discord. More coming soon.
+Github will be gradually updated. More coming soon.
 
-## 5. License & Contribution Framework
-
-An open-sourced framework for non-commercial usage (AGPLv3) or with commercial provisions for the purpose of further projects / contributors.
-
-### For Contributors — Commercial Deployment Model
-
-#### Contributor Rights & Revenue Sharing
-By contributing to ECS, you grant the project:
-- ✓ Right to use your code under AGPLv3
-- ✓ Right to license derivative works
-- ✓ Right to commercial deployment (with restrictions outlined below)
-
-In return, you receive:
-- ✓ Attribution in perpetuity
-- ✓ Revenue share from commercial deployments / licensing - to be further discussed. 
-- ✓ Voice in governance (core contributors & the community)
-
-#### Commercial Policy
-**For organizations, governments, companies (non-contributors):**
-- Code is freely available under AGPLv3 globally
-- Commercial use requires licensing agreement.
-
-**For contributors & their countries:**
-- Core Contributors have right of free of charge use of the system in their home country.
-- Contributors retain rights to contribute to competitors' projects (no exclusivity clause)
-- Enhanced.World Foundation (planned registration year, NE EU) maintains global commercial licensing rights (to prevent monopolistic appropriation)
-- Revenue sharing applies per 4 fiscal periods to all contributors, proportional to weighted validation and community consensus.
-
-#### Contributor Registry & Governance
-
-[PLACEHOLDER: To be developed collaboratively with the first contributor cohort]
-
-This section will document:
-- Revenue distribution methodology (weighted contributions, expertise, maintenance)
-- Dispute resolution process
-- Contributor tier system (Core, Main)
-- Voting rights and proposal mechanisms
-- Transparency reports and financial disclosure
-- Sunset clauses (for inactive contributors)
 
 **Participation:** See [CONTRIBUTION.md](./CONTRIBUTION.md); contact [TBD] to participate in governance design.
 
-## 6 We Need You
+## 5 We Need You
 
 This is not a startup pitch. This is a call to build critical infrastructure for human survival.
 
@@ -302,7 +263,7 @@ Publish the papers that universities ignore because they're not "fundable." Make
 
 **Impact:** Your research could legitimize resilience engineering as an academic discipline.
 
----
+
 
 ## Why This Matters
 
@@ -319,7 +280,7 @@ ECS isn't asking you to abandon the modern world. It's asking you to build a bac
 
 The first person who gets a message through ECS during a real blackout won't care about your resume. They'll care that you made connection possible when nothing else did.
 
-### You Are Not Alone
+### The Community
 
 If you've ever thought:
 - *"I could build something better, but the market doesn't reward it"*
@@ -330,7 +291,7 @@ If you've ever thought:
 
 ---
 
-## How to Start
+## How to Start (WIP, this is NOT a corporate gig platform)
 
 1. **Claim a problem:** Open an issue in GitHub for what you want to work on
 2. **Introduce yourself:** Tell us your background, your why, what obsesses you
@@ -363,11 +324,11 @@ This isn't a startup. It it might make everyone alive. For You and Your family, 
 
 - **GitHub:** [organization/ecs](https://github.com/[org]/ecs)
 - **Contribution Guide:** [CONTRIBUTION.md](./CONTRIBUTION.md)
-- **Discord/Community:** [TBD]
+- **Discord/Community:** [TBD / >> GitHubDisscussions <<]
 - **Mastodon:** [@ecs](https://mastodon.social/@ecs) *(working decentralized comms)*
 - **Mailing List:** [TBD]
 
-## Who is behind this! - The Non-Founder Founder Model
+## 6. Who is behind this! - The Non-Founder Founder Model
 
 ####Who started ECS?
 Karol Kwestarz-Maciejewski, a system architect who got tired of waiting for someone else to build resilience infrastructure. Drawn blueprints and some of documentation. 
@@ -434,6 +395,49 @@ how the project governs itself before momentum builds.
 
 If you want to help build critical infrastructure that's actually decentralized
 (not just coded decentralization with founder control), welcome home.
+
+## 6.1 ...and more about.
+More about the project summary coming soon.
+
+## 7. License & Contribution Framework - DRAFT
+
+An open-sourced framework for non-commercial usage (AGPLv3) or with commercial provisions for the purpose of further projects / contributors.
+
+### For Contributors — Commercial Deployment Model
+
+#### Contributor Rights & Revenue Sharing
+By contributing to ECS, you grant the project:
+- ✓ Right to use your code under AGPLv3
+- ✓ Right to license derivative works
+- ✓ Right to commercial deployment (with restrictions outlined below)
+
+In return, you receive:
+- ✓ Attribution in perpetuity
+- ✓ Revenue share from commercial deployments / licensing - to be further discussed. 
+- ✓ Voice in governance (core contributors & the community)
+
+#### Commercial Policy
+**For organizations, governments, companies (non-contributors):**
+- Code is freely available under AGPLv3 globally
+- Commercial use requires licensing agreement.
+
+**For contributors & their countries:**
+- Core Contributors have right of free of charge use of the system in their home country.
+- Contributors retain rights to contribute to competitors' projects (no exclusivity clause)
+- Enhanced.World Foundation (planned registration year, NE EU) maintains global commercial licensing rights (to prevent monopolistic appropriation)
+- Revenue sharing applies per 4 fiscal periods to all contributors, proportional to weighted validation and community consensus.
+
+#### Contributor Registry & Governance
+
+[PLACEHOLDER: To be developed collaboratively with the first contributor cohort]
+
+This section will document:
+- Revenue distribution methodology (weighted contributions, expertise, maintenance)
+- Dispute resolution process
+- Contributor tier system (Core, Main)
+- Voting rights and proposal mechanisms
+- Transparency reports and financial disclosure
+- Sunset clauses (for inactive contributors)
 
 Last updated: 29.05
 
