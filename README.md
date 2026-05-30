@@ -145,8 +145,6 @@ For help, support, or participation: see CONTRIBUTION.md
 Github will be gradually updated. More coming soon.
 
 
-**Participation:** See [CONTRIBUTION.md](./CONTRIBUTION.md); contact [TBD] to participate in governance design.
-
 ## 5 We Need You
 
 This is not a startup pitch. This is a call to build critical infrastructure for human survival.
@@ -322,7 +320,8 @@ This isn't a startup. It it might make everyone alive. For You and Your family, 
 
 ## Resources to Get Involved
 
-- **GitHub:** [organization/ecs](https://github.com/[org]/ecs)
+- **GitHub:** [Enhanced-World-Foundation
+EssentialCrisisSoftware]([https://github.com/[org]/ecs](https://github.com/Enhanced-World-Foundation/EssentialCrisisSoftware))
 - **Contribution Guide:** [CONTRIBUTION.md](./CONTRIBUTION.md)
 - **Discord/Community:** [TBD / >> GitHubDisscussions <<]
 - **Mastodon:** [@ecs](https://mastodon.social/@ecs) *(working decentralized comms)*
