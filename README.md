@@ -12,18 +12,41 @@ ECS is being built as infrastructure of last resort: a modular, easy-to-use syst
 
 The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail. Like biulding a submarine, it can be done but a lot have to be put in to so all works as intended. Digital Ark.
 
+## IMPORTANT: AI Policy!
+Do not use online AI - only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
+
 ##Table of Contents:
 
-1 Four Operational Scenarios
-2 Priority Pipeline
-2.1 📦 ECS MVP 1.0 & 1.1
-3 Architecture Overview 
-3.1 System Components 
-4 Why Open Source Community / Crowd Development?
-5 We Need You - To Specialists 
-6 Who is behind this! ...and more about.
-7 License & Contribution Framework (WIP)
+R1 Four Operational Scenarios
+R2 Priority Pipeline
+R2.1 📦 ECS MVP 1.0 & 1.1
+R3 Architecture Overview 
+R3.1 System Components 
+R4 Why Open Source Community / Crowd Development?
+R5 We Need You - To Specialists 
+R6 Who is behind this! ...and more about.
+R7 License & Contribution Framework (WIP)
 
+                  ___                          (_)
+                _/XXX\
+ _             /XXXXXX\_                                    __
+ X\__    __   /X XXXX XX\                          _       /XX\__      ___
+     \__/  \_/__       \ \                       _/X\__   /XX XXX\____/XXX\
+   \  ___   \/  \_      \ \               __   _/      \_/  _/  -   __  -  \__/
+  ___/   \__/   \ \__     \\__           /  \_//  _ _ \  \     __  /  \____//
+ /  __    \  /     \ \_   _//_\___     _/    //           \___/  \/     __/
+ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
+                                   /|\
+                                  /'| \
+                                 / '|  \
+                                /'' |*  \
+                               /  $ | '' \
+                              /# #  |     \
+                             /      |  $   \
+                            /       | 99;.  \
+                           
+[ASCII https://www.asciiart.eu/collections/best-of-the-ascii-pics-1-0]                          
+                          
 ## 1. Four Operational Scenarios
 
 | Scenario | Conditions | Priority - Threat / Tech Level |
@@ -39,7 +62,7 @@ MVP + Customized Systems Architectures + Power Plans (Scenario Based), Alternati
 
 ## What should be in the MVP? What are the most helpful functionalities?
 
-This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, suplychain distrupments, blocked internet, disabled phone networks, or unavailable electronic payment systems. A ECS Client MVP will use BLT technology.
+This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, suplychain distrup ments, blocked internet, disabled phone networks, or unavailable electronic payment systems. A ECS Client MVP will use BLT technology.
 
 ### 📦 ECS MVP - Core Framework + UI:
 * **Groups System:** Open / Closed group differentiation.
@@ -62,9 +85,13 @@ Basic Framework - BLT MESH - Basic Logic, Functions and Variables-Templates.
 ## 3. Architecture Overview
 
 ### General Principles
+**Human applicable - AI resistant**:
 - **Interoperability** by design — works in *any* environment
 - **Modularity**— swap components without breaking the system
 - **Accessibility** — no technical prerequisites for basic users
+
+**State-of-Art Enginering Challange**:
+- Variety, Optimization, Customization, Utility, Safety (VOCUS)
 
 ### 3.1 System Components - Software
 
@@ -95,28 +122,6 @@ Basic Framework - BLT MESH - Basic Logic, Functions and Variables-Templates.
 - **E2** – Custom UI / Settings - Guidelines
 - **E2** – Network-Addon, Optimization / Processing Portable-Standalone Software
 - **E3** – New functions - modules for the main framework but because of some reason not imported into main validated ecosystem
-
-### Network Software Types:
-
-#### 1. **"ECS Client" Core** (Portable / Installation)
-- Main P2P client/node utility 
-- Compilations that could run on: PC, mobile, embedded devices, unconventional electronics, DIY
-  
-#### 2. **Network Forwarding Node (NFN)**
-- Active or sleeping relay node,
-- Possibly other system services like for ex. data processing and storadge
-- Continuous or intermittent power operation
-- Extends network range and redundancy, control over devices (ex. camera)
-
-#### 3. **Pocket Point of Network (PPN | Out-of-ECS Network)**
-- Dedicated hardware deployed in terrain, delivering services for the network/group.
-- Ex. Functions: autonomous message exchange board, data synchronization, also control over devices or data processing.
-- Independent power, unattended operation
-- Variants: PPN1 (full spectrum), PPN2 (minimal)
-
-#### For scenarios B—C:
-F. **HQ "Overtaker":** Software to connect directly and change any scrap electronics/DIY/emitter device into a permanent Network Forwarding Node / Pocket Point—possibly, customization compilation assistance for 1-2-3 types of network roles. Form: hardware-dedicated device/ USB / mobile.
-- Critical for post-collapse scenarios, re-purposing: chips and devices.
 
 ## Development Roadmap
 
@@ -262,7 +267,6 @@ Publish the papers that universities ignore because they're not "fundable." Make
 **Impact:** Your research could legitimize resilience engineering as an academic discipline.
 
 
-
 ## Why This Matters
 
 Seventy years of internet history is a blink of an eye. We've built a global civilization dependent on:
@@ -305,29 +309,17 @@ Do not use online AI - only locally run models can be used in development of Bla
 
 *"This will never work. Governments will shut it down. Corporations will copy it. People won't care until it's too late."*
 
-You might be right.
+You might be right, but it doesn't matter it's worth trying, every thing run - makes lives better. 
 
 But we build it anyway, because:
-
-- If we succeed, millions survive a crisis that kills millions in the original timeline
-- If we fail, the code remains—forked, improved, resilient
-- Even partial success—one village communicating during blackout—justifies the effort
-- The attempt itself changes what people believe is possible
+- If we succeed, millions could survive events that kills millions in the original timeline
+- Even partial success — one village communicating during blackout — justifies the effort
 
 This isn't a startup. It it might make everyone alive. For You and Your family, for Me and My family, and for everyone.
 
 ---
 
-## Resources to Get Involved
-
-- **GitHub:** [Enhanced-World-Foundation
-EssentialCrisisSoftware]([https://github.com/[org]/ecs](https://github.com/Enhanced-World-Foundation/EssentialCrisisSoftware))
-- **Contribution Guide:** [CONTRIBUTION.md](./CONTRIBUTION.md)
-- **Discord/Community:** [TBD / >> GitHubDisscussions <<]
-- **Mastodon:** [@ecs](https://mastodon.social/@ecs) *(working decentralized comms)*
-- **Mailing List:** [TBD]
-
-## 6. Who is behind this! - The Non-Founder Founder Model
+## R6. Who is behind this! - The Non-Founder Founder Model
 
 ####Who started ECS?
 Karol Kwestarz-Maciejewski, a system architect who got tired of waiting for someone else to build resilience infrastructure. Drawn blueprints and some of documentation. 
@@ -395,10 +387,13 @@ how the project governs itself before momentum builds.
 If you want to help build critical infrastructure that's actually decentralized
 (not just coded decentralization with founder control), welcome home.
 
-## 6.1 ...and more about.
+## R6.1 ...and more about.
 More about the project summary coming soon.
 
-## 7. License & Contribution Framework - DRAFT
+
+
+
+## R7. License & Contribution Framework - DRAFT
 
 An open-sourced framework for non-commercial usage (AGPLv3) or with commercial provisions for the purpose of further projects / contributors.
 
@@ -407,11 +402,12 @@ An open-sourced framework for non-commercial usage (AGPLv3) or with commercial p
 #### Contributor Rights & Revenue Sharing
 By contributing to ECS, you grant the project:
 - ✓ Right to use your code under AGPLv3
-- ✓ Right to license derivative works
+- ✓ Right to license derivative works 
 - ✓ Right to commercial deployment (with restrictions outlined below)
 
 In return, you receive:
 - ✓ Attribution in perpetuity
+- ✓ Commercial License in Own Country
 - ✓ Revenue share from commercial deployments / licensing - to be further discussed. 
 - ✓ Voice in governance (core contributors & the community)
 
@@ -438,10 +434,75 @@ This section will document:
 - Transparency reports and financial disclosure
 - Sunset clauses (for inactive contributors)
 
-Last updated: 29.05
+Access escalates based on contribution history. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-Questions? Reply in thread.
+
+## Project status
+
+🔴 **Pre-alpha. Initiative phase.**
+
+Currently: architecture finalized, module specification in progress, recruiting first contributors and advisors.
+
+This is an open invitation. Engineers, protocol designers, embedded developers, security researchers — read [`CONTRIBUTING.md`](CONTRIBUTING.md) and join the discussion.
+
+---
+
+## Support the project
+
+Financial support directly funds hardware, time, and infrastructure - this project is run by solo-initiator, currently working full-time elsewhere. 
+
+- **Patreon:** `[PATREON LINK]`
+- **Buy Me a Coffee:** `[BMC LINK]`
+
+- **GitHub Sponsors:** `[GITHUB SPONSORS LINK]`
+- **Crypto (BTC/ETH/other):** `[WALLET ADDRESS]`
+
+This project (and other run by Karol like Essential Cybersecurity Benchmark, Food4Free among other) requires so much to be done, that any help in kind of work done can be effectively allocated. 
+
+Every contribution is acknowledged and will be listed. No contribution is too small. Documentation, testing, protocol review, hardware recommendations — all needed.
+
+1. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) — contribution tiers explained
+2. Join the Discord: `[DISCORD LINK]`
+3. Open an issue or start a discussion on GitHub
+
+---
+
+## Contact
+
+**Karol** — Founder, Locally4Me / Enhanced.World
+- Email: research@enhanced.world 
+- GitHub: [@TianLongLun](https://github.com/TianLongLun)
+
+Questions? Reply in GHD, Reddit or Discord thread.
 
    
-**Version 1.0** | Last updated: May 2026
+**Version 1.01** | Last updated: 04 April 2026
+
+---
+
+
+                              /
+                   __       //
+                   -\= \=\ //
+                 --=_\=---//=--
+               -_==/  \/ //\/--
+                ==/   /O   O\==--
+   _ _ _ _     /_/    \  ]  /--
+  /\ ( (- \    /       ] ] ]==-
+ (\ _\_\_\-\__/     \  (,_,)--
+(\_/                 \     \-
+\/      /       (   ( \  ] /)
+/      (         \   \_ \./ )
+(       \         \      )  \
+(       /\_ _ _ _ /---/ /\_  \
+ \     / \     / ____/ /   \  \
+  (   /   )   / /  /__ )   (  )
+  (  )   / __/ '---`       / /
+  \  /   \ \             _/ /
+  ] ]     )_\_         /__\/
+  /_\     ]___\
+ (___)
+
+ASCII From: STEVEN_SULLIVAN_OFFICE_WANG_COM ("Steven M Sullivan")
+
 
