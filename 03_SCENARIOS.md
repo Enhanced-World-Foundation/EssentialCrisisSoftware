@@ -6,18 +6,9 @@ This document is divided in to sections:
 First and main support you can do is - help us on building comphrehensive description of in-scenarios details. 
 We make inquires in to adequate CIRCUMSTANCES-SCN_X.md
 |
-A validation, completeness and expanding the set of related situation circumstances, treats (including technicalities) , properties and demands of enviroment / situation, possible sub-scenarios.
+A validation, completeness and expanding the set of related situation circumstances, treats (including technicalities) , properties and demands of environment / situation, possible sub-scenarios.
 
-## Operational Scenarios
-
-| Scenario | Name | Conditions | Module Access |
-|----------|------|-----------|---------------|
-| **A** | **"Dead-Internet"** | ISP/backbone failure, regional outage | Open community build |
-| **B** | **"Fallout"** | Long-term grid failure, hostile/sick population, proxy comms needed | Restricted modules |
-| **C** | **"Total War"** | Automated signal scanning, active node hunting, partisan-like ops | Classified modules |
-| **D** | **"Hybrid War"** | Overlapping threat conditions — alternatives and custom presets | Community + custom |
-
-### Sub-scenarios & Duration:
+## Operational Scenarios - Sub-scenarios & Duration:
 
 ```Type of Crisis | Duration & Expected Functional Lifetime
 
@@ -28,19 +19,23 @@ A — Communication-Internet Outage
 B — Society / Manufacturing Collapse 
   B.1  Solar Flare / Supply Break    Mid-Long      few year (~2-3)
   B.2  Full "Fallout"                Extreme       as long as possible
+Notes: hostile/sick population, proxy service needed 
 
 C — All-in War
   C.1  Modern Army Invasion          Mid–Long      few years (~3-5)
   C.2  AI backed Total War "Skynet"  Long          decade+, active high threat
+Notes: automated signal scanning, active node hunting 
 
 D — Hybrid War + Internet Operational  
   D.1  CyberWar / Wild Hacking       Short–Mid     ~1-3 year
-  D.2  Infiltrated Central / AI      Mid           ~10 years
+  D.2  Infiltrated Central / AI      Mid           up to 10 years
 
 ```
-##A LIVING DOCUMENT: Scenarios Descriptions and Community Insights Content:
+## Scenarios Descriptions and Community Insights Content - A LIVING DOCUMENT
 
-Community input to adequate CIRCUMSTANCES-SCN_X.md file:
+Community input to -> adequate CIRCUMSTANCES-SCN_X.md file (X - is A-D):
+
+    Topics Covered:
 A. Circumstances (Descriptive -> Technical) 
 A.1 Problems - holistic and user case sets.
 A.2 Threats - full analysis: kind, intensity, rarity, technological level, severity of "punishment", range & area of danger / operations, expected monitoring technology and intensity, including environment and circumstance related;
@@ -53,9 +48,10 @@ G. Ideas of External Utilities, and All level of Alternatives (Addons, Plugins, 
 H. Tests & Important Measurements (processing power and time, etc.) / solutions & technologies, a commentary.
 
 
+--- [A PLACE HOLDER DISCUSSION START DRAFT] ---
 
---- [A PLACE HOLDER DISCUSSION START] ---
 Each scenario has:
+- **Communication** - recommended type transmission
 - **Context** — what triggered it, what the world looks like
 - **Threats** — active dangers to nodes and users
 - **Monitoring** — who is watching, what equipment, what intensity
@@ -66,8 +62,6 @@ Each scenario has:
 Contributors: add entries under relevant sections.
 Use `[UNVERIFIED]` tag for assumptions not yet validated.
 Use `[NEEDS RESEARCH]` for gaps that need expert input.
-
----
 
 ## SCENARIO A — "Dead-Internet"
 
@@ -399,6 +393,8 @@ Open questions here = future GitHub Issues in private repo.
 **Karol** — Founder, Locally4Me / Enhanced.World
 - Email: research@enhanced.world 
 - GitHub: [@TianLongLun](https://github.com/TianLongLun)
+https://github.com/Enhanced-World-Foundation
+
 Questions? Reply in GHD, Reddit or Discord thread.
 
 https://enhanced.world
