@@ -71,6 +71,12 @@ Use `[NEEDS RESEARCH]` for gaps that need expert input.
 
 ## SCENARIO A — "Dead-Internet"
 
+WiFi mesh (up 2 km)
+    ↓ (fallback)
+LoRa Meshtastic (7–10 km)
+    ↓ (inter-town)
+HF 40m NVIS (regional)
+
 ### A.1 — Crisis / Malfunction (days → months)
 
 **Context:**
@@ -143,6 +149,11 @@ Use `[NEEDS RESEARCH]` for gaps that need expert input.
 ---
 
 ## SCENARIO B — "Fallout"
+LoRa Meshtastic SF12 (daily, low detection)
+    ↓ (urgent)
+HF 40m SSB (inter-regional, low power)
+    ↓ (despair)
+Morse heliograf (day, LOS)
 
 ### B.1 — Medium Solar Flare (few years)
 
@@ -222,6 +233,18 @@ Use `[NEEDS RESEARCH]` for gaps that need expert input.
 ---
 
 ## SCENARIO C — "Total War"
+Optical FSO laser (1550 nm eye-safe, point-to-point)
+↓ (daily)
+ HF 40m CW Ultra-QRP / "Directional-alt" / "Wake-Up Network Repeater"
+↓ (Reserve)
+Fallback: analog paper + courier / symbols + hybrid PON solutions.
+
+LoRa SF12 + frequency hopping + encryption
+HF CW ultra-low-power 100 mW
+Visual code (flags, mirrors, smoke)
+
+64 Miles Human Heart Pulse Detection Range!
+
 
 ### C.1 — Modern Invasion (few years)
 
@@ -368,3 +391,38 @@ Use `[NEEDS RESEARCH]` for gaps that need expert input.
 This document feeds directly into module specification.
 Open questions here = future GitHub Issues in private repo.
 
+
+---
+
+## Contact
+
+**Karol** — Founder, Locally4Me / Enhanced.World
+- Email: research@enhanced.world 
+- GitHub: [@TianLongLun](https://github.com/TianLongLun)
+Questions? Reply in GHD, Reddit or Discord thread.
+
+https://enhanced.world
+https://locally4me.org
+https://github.com/Enhanced-World-Foundation/EssentialCrisisSoftware
+   
+**Version 1.01** | Last updated: 04 April 2026
+
+                  ___                          (_)
+                _/XXX\
+ _             /XXXXXX\_                                    __
+ X\__    __   /X XXXX XX\                          _       /XX\__      ___
+     \__/  \_/__       \ \                       _/X\__   /XX XXX\____/XXX\
+   \  ___   \/  \_      \ \               __   _/      \_/  _/  -   __  -  \__/
+  ___/   \__/   \ \__     \\__           /  \_//  _ _ \  \     __  /  \____//
+ /  __    \  /     \ \_   _//_\___     _/    //           \___/  \/     __/
+ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
+                                   /|\
+                                  /'| \
+                                 / '|  \
+                                /'' |*  \
+                               /  $ | '' \
+                              /# #  |     \
+                             /      |  $   \
+                            /       | 99;.  \
+                           
+[ASCII https://www.asciiart.eu/collections/best-of-the-ascii-pics-1-0]                          

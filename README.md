@@ -12,8 +12,9 @@ ECS is being built as infrastructure of last resort: a modular, easy-to-use syst
 
 The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail. Like biulding a submarine, it can be done but a lot have to be put in to so all works as intended. Digital Ark.
 
-## IMPORTANT: AI Policy!
-Do not use online AI - only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
+## AI Policy!
+Do not use online AI on whole modules, files or repositories! Feel free to use AI as help on limited fragments / blocks.
+Only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
 
 ##Table of Contents:
 
@@ -27,25 +28,6 @@ R5 We Need You - To Specialists
 R6 Who is behind this! ...and more about.
 R7 License & Contribution Framework (WIP)
 
-                  ___                          (_)
-                _/XXX\
- _             /XXXXXX\_                                    __
- X\__    __   /X XXXX XX\                          _       /XX\__      ___
-     \__/  \_/__       \ \                       _/X\__   /XX XXX\____/XXX\
-   \  ___   \/  \_      \ \               __   _/      \_/  _/  -   __  -  \__/
-  ___/   \__/   \ \__     \\__           /  \_//  _ _ \  \     __  /  \____//
- /  __    \  /     \ \_   _//_\___     _/    //           \___/  \/     __/
- __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
-                                   /|\
-                                  /'| \
-                                 / '|  \
-                                /'' |*  \
-                               /  $ | '' \
-                              /# #  |     \
-                             /      |  $   \
-                            /       | 99;.  \
-                           
-[ASCII https://www.asciiart.eu/collections/best-of-the-ascii-pics-1-0]                          
                           
 ## 1. Four Operational Scenarios
 
