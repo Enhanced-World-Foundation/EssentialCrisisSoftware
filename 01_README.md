@@ -16,6 +16,19 @@ The most resilient network-society is built around decentralization and cooperat
 Do not use online AI on whole modules, files or repositories! Feel free to use AI as help on limited fragments / blocks.
 Only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
 
+Documentation Files:
+1 Readme.md - R E A D
+2 CONTRIBUTION.md - Commiting, Code of Condiuct, Files
+3 SCENARIOS.md - 
+4 OVERVIEW_TECH.md - Technical Overview -> for architecture GENERAL_CODING/
+5 LICENCE.md - 
+6 GOVERNENCE.md - Governence, Community, Privacy & Safty Team, Black Box. 
+7 PIPELINE&REPORT.md - Pipeline, what is ready, wat is worked on.
+8. READY-LABELED-SETS.md - links, archives, ready files and solutions used in sets/. 
+
+WorkFlow_XXX - are live develompent reporting file. 
+
+
 ##Table of Contents:
 
 R1 Four Operational Scenarios

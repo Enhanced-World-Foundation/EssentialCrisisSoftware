@@ -328,15 +328,15 @@ Visual code (flags, mirrors, smoke)
 ### D.1 — Mixed / Privacy (~1 year)
 
 **Context:**
-- Partial threat conditions
-- Privacy-focused use without active adversary
+- Partial threat conditions - geographical or prolonged unavailability of cretin services
+- Very high hacking activity also by inflitraring enemy 
 - Civil unrest, surveillance state, targeted repression
+- Internet Services and Economy is operating but can be limited or used against
 
 **Expected threats:**
-- [ ] Mass surveillance (metadata collection)
-- [ ] Targeted monitoring of activists / journalists
-- [ ] Legal threats (using ECS = suspicious activity in some jurisdictions)
-- [ ] [ADD MORE]
+- [ ] Mass hacking - individuals, teams, AI/Autonomous Virus
+- [ ] Mobile Hackers / Signal Distruptors of different asociation
+- [ ] Mass surveillance (metadata collection) - Pegasus / Video Network / WiFi's
 
 **Monitoring intensity:** MEDIUM (passive mass, active targeted)
 
