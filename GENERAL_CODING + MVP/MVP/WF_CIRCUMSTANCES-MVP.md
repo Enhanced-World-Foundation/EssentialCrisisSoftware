@@ -182,9 +182,6 @@ H. Tests & Important Measurements (processing power and time, etc.) / solutions 
 
 ---
 
-## PART 1 — PROJECT DESCRIPTION (~2000 characters)
-
-```
 Essential Crisis Software (ECS) is an open-source, offline-first mesh
 framework for local communication and coordination when network
 infrastructure is unavailable, degraded, or hostile. It is not a single
@@ -222,15 +219,11 @@ embedded, RF and cryptography engineers who want a hard, real problem
 without commercial pressure.
 
 GitHub: github.com/TianLongLun/EssentialCrisisSoftware
-```
-*(~1980 characters — trim the GitHub line if a platform counts it)*
-
----gestosc
 
 ## PART 2 — SCENARIO & TECH ANALYSIS
 
 ### 2.1 How the MVP maps to scenarios
-
+nie!!!
 The MVP is not scenario-neutral — it is **Scenario A.1 hardware** (blackout, days→months, no active adversary). That is the correct first target: largest addressable need, lowest security burden, every phone is a node.
 
 | Build | Scenario fit | Adversary | Security burden | Why build first/later |
@@ -242,7 +235,7 @@ The MVP is not scenario-neutral — it is **Scenario A.1 hardware** (blackout, d
 | **C** | Total War | State + AI | Extreme (anti-detection) | Hardest; classified modules; build last, on proven base |
 | **D** | Hybrid | Mixed | Configurable | Preset layer over A/B/C — emerges, not built standalone |
 
-**Assumption being made explicit:** MVP usefulness assumes node *density*. BLE mesh only works if enough phones run it in range of each other. Below a density threshold the mesh is islands, not a network. This is the single biggest adoption risk and should be stated in docs, not hidden.
+**Assumption being made explicit:** MVP usefulness assumes node *density*. BLE mesh only works if enough phones run it in range of each other. Below a density threshold the mesh is islands, not a network. This is the single biggest adoption risk - therefore hybrid networks, alternative technologies and in-design solutions / usage cases acknowladge this.
 
 ---
 
