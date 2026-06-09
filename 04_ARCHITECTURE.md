@@ -100,8 +100,8 @@ Including compilations, optimized software, custom presets and settings, UI's an
 │ Contains: Custom Set of - Framework + Modules + UI + Plugins + Data Pack & Presets;              │
 │                                                                                                  │
 │ ┌──────────────────────────────────────────────────────────────────────────────────────────────┐ │
-│ │ L2. Core Framework:                                                                          │ │
-│ │ - General Build Code, Data Flow, a structure orchestrator for Modules, shared;               │ │
+│ │ L2. Core Framework & L3. Basic Modules                                                       │ │
+│ │ - General Build Code, Data Flow, a structure orchestrator for Modules,                       │ │
 │ │ - Customization Protocol, Process Masking and General Security, I/O gate.                    │ │
 │ └──────────────────────────────────────────────────────────────────────────────────────────────┘ │
 │                                                                                                  │

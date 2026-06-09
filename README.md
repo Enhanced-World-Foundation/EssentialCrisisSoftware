@@ -20,11 +20,13 @@ Documentation Files:
 1 Readme.md - R E A D
 2 CONTRIBUTION.md - Commiting, Code of Condiuct, Files
 3 SCENARIOS.md - 
-4 OVERVIEW_TECH.md - Technical Overview -> for architecture GENERAL_CODING/
+4 OVERVIEW_TECH.md - Technical Overview -> for more detailed architecture GENERAL_CODING/; 
+
 5 LICENCE.md - 
-6 GOVERNENCE.md - Governence, Community, Privacy & Safty Team, Black Box. 
-7 PIPELINE&REPORT.md - Pipeline, what is ready, wat is worked on.
-8. READY-LABELED-SETS.md - links, archives, ready files and solutions used in sets/. 
+6 GOVERNENCE.md - Governence, Community, Privacy & Saefty Team, Black Box. 
+
+7 PIPELINE_REPORT.md - Pipeline, what is ready, what is worked upon, what will be next. 
+8. READY-LABELED-SETS.md - links, archives, ready files and solutions used in section sets, compilations and distributions/ - to be created when needed.  
 
 WorkFlow_XXX - are live develompent reporting file. 
 

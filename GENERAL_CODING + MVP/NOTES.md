@@ -1,3 +1,5 @@
+What is where:
+
 
 ├──PUBLIC ECB/
 │   ├── LICENSE.md (license and usage guidelines)
@@ -33,3 +35,18 @@
 │
 │
 ├─ ECB_BB/ (GitHub Private Repo)
+
+
+NEWS:
+
+UPDATES:
+
+ATTENTION:
+
+RECOMMENDATIONS:
+
+GOOD PRACTICES: 
+
+
+
+
