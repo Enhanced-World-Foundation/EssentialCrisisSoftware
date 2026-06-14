@@ -1,4 +1,7 @@
-# ECS — A Technical Summary
+# Essential Crisis Software --- Community-Developed Open Source Initiative
+
+# OVERVIEW_TECH.md - A Technical Summary
+
 ## Infrastructure of Last Resort
 
 **Essential Crisis Software (ECS)** is an open-source ecosystem designed to help communities communicate, coordinate and retain critical knowledge when conventional infrastructure becomes unreliable or unavailable.
@@ -225,31 +228,4 @@ SOS OVERDRIVE LAYER
               Crisis Preparedness
 
       
-      
-      
-
-
-                ECS ECOSYSTEM
-
-                       │
-
-                       ▼
-
-         Infrastructure of Last Resort
-
-                       │
-
-      ┌──────────┬──────────┐
-      ▼          ▼          ▼
-
-   Blackout    Disaster     War
-
-      │          │          │
-
-      └──────────┼──────────┘
-                 ▼
-
-          Communication
-          Coordination
-           Knowledge
-
+  

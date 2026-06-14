@@ -1,4 +1,4 @@
-# Essential Crisis Software - Open Source Initiative
+# Essential Crisis Software - Community Developed Open Source Initiative
 
 **PRO BONO — I N V I T A T I O N — MESH P2P MODULAR SYSTEM**
 
@@ -16,22 +16,21 @@ The most resilient network-society is built around decentralization and cooperat
 Do not use online AI on whole modules, files or repositories! Feel free to use AI as help on limited fragments / blocks.
 Only locally run models can be used in development of Black Box and Core Framework. Unauthorized AI usage and training - is a violation of license!
 
-Documentation Files:
-1 Readme.md - R E A D
-2 CONTRIBUTION.md - Commiting, Code of Condiuct, Files
-3 SCENARIOS.md - 
-4 OVERVIEW_TECH.md - Technical Overview -> for more detailed architecture GENERAL_CODING/; 
-
-5 LICENCE.md - 
-6 GOVERNENCE.md - Governence, Community, Privacy & Saefty Team, Black Box. 
+## Documentation Files:
+1 Readme.md - R E A D !! FIRST
+2 CONTRIBUTION.md - Committing, Code of Condiuct, Files & Catalogs, Labeling and Review
+3 SCENARIOS.md - Scenarios description, A-D; Paired with detailed file: GENERAL_CODING/WF_CIRCUMSTANCES.md 
+4 OVERVIEW_TECH.md - Technical Overview -> for details GENERAL_CODING/ARCHITECTURE.md; Third level solutions are in folders for exact scenarios. 
+5 LICENSE.md - Terms of Usage, and Co-creator developer rights.
+6 GOVERNANCE.md - Governence, Community, Privacy & Safety Team, Black Box. 
 
 7 PIPELINE_REPORT.md - Pipeline, what is ready, what is worked upon, what will be next. 
-8. READY-LABELED-SETS.md - links, archives, ready files and solutions used in section sets, compilations and distributions/ - to be created when needed.  
+8 READY-LABELED-SETS.md - links, archives, ready files and solutions used in section sets, compilations and distributions/ - to be created when needed.  
 
-WorkFlow_XXX - are live develompent reporting file. 
+WorkFlow_XXX - are live develompent reporting file. WF_...md
 
 
-##Table of Contents:
+## Table of Contents:
 
 R1 Four Operational Scenarios
 R2 Priority Pipeline
@@ -386,9 +385,7 @@ If you want to help build critical infrastructure that's actually decentralized
 
 ## R6.1 ...and more about.
 More about the project summary coming soon.
-
-
-
+I have  most of logics, plans and advanced blueprints. Website coming.
 
 ## R7. License & Contribution Framework - DRAFT
 

@@ -1,3 +1,5 @@
+# Essential Crisis Software --- Community-Developed Open Source Initiative
+
 SCENARIOS.md
 
 ##Introduction:
@@ -323,19 +325,19 @@ Visual code (flags, mirrors, smoke)
 
 ---
 
-## SCENARIO D — "Hybrid War / Custom"
+## SCENARIO D — "Online Hostility Crisis"
 
-### D.1 — Mixed / Privacy (~1 year)
+### D.1 Hybrid War / Mass Hostile Hacking (~5 year)
 
 **Context:**
 - Partial threat conditions - geographical or prolonged unavailability of cretin services
-- Very high hacking activity also by inflitraring enemy 
-- Civil unrest, surveillance state, targeted repression
-- Internet Services and Economy is operating but can be limited or used against
+- Very high hacking activity also by infiltrating enemy 
+- Civil unrest, surveillance state, targeted repressions, limited transport and movement, closed areas 
+- Internet Services and Economy is operating but can be limited or used against the user, GPS might be distrupted 
 
 **Expected threats:**
 - [ ] Mass hacking - individuals, teams, AI/Autonomous Virus
-- [ ] Mobile Hackers / Signal Distruptors of different asociation
+- [ ] Mobile Hackers / Signal Distributors of different association
 - [ ] Mass surveillance (metadata collection) - Pegasus / Video Network / WiFi's
 
 **Monitoring intensity:** MEDIUM (passive mass, active targeted)
@@ -346,16 +348,22 @@ Visual code (flags, mirrors, smoke)
 
 ---
 
-### D.2 — Custom (~5 years, WIP)
+### D.2 — Custom / Mixed / Theft and AI: Privacy (~10 years)
 
 **Context:**
-- User-defined threat model
-- Configurable preset combining A/B/C elements
+- User-defined threat model. Configurable preset combining A/B/C elements
+- Online Service - Operational
+- Preset Mix - "alternatives and a future" compared to D.1 it's lower punishment, lower dedicated threat units, more criminal and AI dangers, spying and type of threat - privacy, personality, related. More stable online and more tech infrastructure.  
 
-**Status:** Work in progress. Define your threat model in config.
+**Expected threats:**
+- [ ] Military-AI Grade - over existing infrasturcture (hacked/repurposed on chip level or central level):
+Very High Detection, Monitoring. Medium severity treat. Privacy and Spying. Hacked Future Infrastructure.
+- [ ] Organized Criminals - Fraud, Hacking, Brutal Crime, Data-Personality-Theft, Scam. Vectors: OSINT / Specialised Mobile Gangs.
+
+**Status:** Work in progress.
 
 **Open questions:**
-- [ ] How to design threat model UI for non-technical operators?
+- [ ] How to design custom model UI for non-technical operators?
 - [ ] [ADD YOUR QUESTIONS]
 
 ---
@@ -381,6 +389,9 @@ Visual code (flags, mirrors, smoke)
 4. Add open questions to relevant section
 5. Don't delete — mark outdated: `[DEPRECATED: reason]`
 6. Cite sources where possible
+
+We use WF_CIRCUMSTANCES.md for detailed description and technicalities. 
+
 
 This document feeds directly into module specification.
 Open questions here = future GitHub Issues in private repo.

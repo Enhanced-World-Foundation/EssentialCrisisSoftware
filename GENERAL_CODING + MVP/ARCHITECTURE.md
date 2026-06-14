@@ -1,5 +1,7 @@
 Essential Crisis Software - Open Source Project   
 
+ARCHITECTURE.md
+
 ## **Stage 0: Preparations** 
 We need to discuss, update and formulate basics of technical details - scenario conditions, impact and design principles, individually customized functional architecture details - including modular division of code & functional copies - along all alternations, reducing time needed. Work pipeline, technical methodologies and guidelines, for "smooth" flow and progress. 
 

@@ -1,4 +1,6 @@
-## SCENARIO MVP
+# Essential Crisis Software --- Community-Developed Open Source Initiative
+
+## SCENARIO MVP - Circumstances 
 
 ## What should be in the MVP? What are the most helpful functionalities?
 
@@ -178,7 +180,7 @@ H. Tests & Important Measurements (processing power and time, etc.) / solutions 
 
 
 
-# ECS — Description (2000 chars) + Scenario/Tech Analysis
+# ECS — Description
 
 ---
 
@@ -198,7 +200,7 @@ scarcity, proxy identity, Byzantine fault tolerance. C — Total War:
 state-grade adversary with automated spectrum analysis and AI signal
 classification; anti-detection at signal and topology level. D — Hybrid
 War: mixed conditions, surveillance state, jamming, infiltration —
-configurable presets.
+configurable presets. Gangs and Crime - while the internet operational.
 
 The MVP runs on Bluetooth Low Energy, present in every phone, license-free
 and low-power: open/closed groups, network identification, opportunistic
@@ -213,12 +215,12 @@ NVIS for regional reach — each matched to a power budget and threat
 profile.
 
 ECS is pro-bono. It cannot be commercialized — there is no market for
-infrastructure built for civilizational failure — but it should exist.
+infrastructure built for civilization failure — but it should exist.
 The repo is open so the design is audited, not trusted. We need protocol,
 embedded, RF and cryptography engineers who want a hard, real problem
 without commercial pressure.
 
-GitHub: github.com/TianLongLun/EssentialCrisisSoftware
+GitHub: https://github.com/Enhanced-World-Foundation/EssentialCrisisSoftware
 
 ## PART 2 — SCENARIO & TECH ANALYSIS
 
@@ -235,7 +237,7 @@ The MVP is not scenario-neutral — it is **Scenario A.1 hardware** (blackout, d
 | **C** | Total War | State + AI | Extreme (anti-detection) | Hardest; classified modules; build last, on proven base |
 | **D** | Hybrid | Mixed | Configurable | Preset layer over A/B/C — emerges, not built standalone |
 
-**Assumption being made explicit:** MVP usefulness assumes node *density*. BLE mesh only works if enough phones run it in range of each other. Below a density threshold the mesh is islands, not a network. This is the single biggest adoption risk - therefore hybrid networks, alternative technologies and in-design solutions / usage cases acknowladge this.
+**Assumption being made explicit:** MVP usefulness assumes node *density*. BLE mesh only works if enough phones run it in range of each other. Below a density threshold the mesh is islands, not a network. This is the single biggest adoption risk - therefore hybrid networks, alternative technologies and in-design solutions / usage cases acknowledge this.
 
 ---
 
@@ -251,7 +253,6 @@ Ranges are **condition-dependent approximations**, not specs. Real numbers depen
 | **HF NVIS (40/80 m)** | Regional, ~0–400 km skywave `[EST]` | Very low, slow digital | High + antenna | Ham (moot in crisis) | High — direction-findable | B regional |
 | **Optical / acoustic / LOS** | Short, directional | Low | Low | None | Very low (no broad RF) | C stealth `[EXPERIMENTAL — needs research]` |
 
-**Your stack progression is sound:**
 ```
 WiFi mesh (local)  →  LoRa (metro/inter-town)  →  HF NVIS (regional)
 ```
@@ -292,7 +293,7 @@ Each tier trades bandwidth and power for range. The right framing in docs: *not*
 
 ---
 
-### 2.5 Open questions worth putting in the private threat doc
+### 2.5 Open questions
 
 - BLE mesh density threshold: how many active nodes per km² before the mesh is continuous, not islands? `[NEEDS RESEARCH — hardware test]`
 - LoRa duty-cycle limits (ISM band legal caps) vs. mesh chattiness — does the protocol fit inside legal duty cycle? `[NEEDS RESEARCH]`
