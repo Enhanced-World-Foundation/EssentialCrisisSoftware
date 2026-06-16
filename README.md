@@ -18,11 +18,11 @@ Only locally run models can be used in development of Black Box and Core Framewo
 
 ## Documentation Files:
 1 Readme.md - R E A D !! FIRST
-2 CONTRIBUTION.md - Committing, Code of Condiuct, Files & Catalogs, Labeling and Review
+2 CONTRIBUTION.md - Committing, Code of Conduct, Files & Catalogs, Labeling and Review
 3 SCENARIOS.md - Scenarios description, A-D; Paired with detailed file: GENERAL_CODING/WF_CIRCUMSTANCES.md 
 4 OVERVIEW_TECH.md - Technical Overview -> for details GENERAL_CODING/ARCHITECTURE.md; Third level solutions are in folders for exact scenarios. 
 5 LICENSE.md - Terms of Usage, and Co-creator developer rights.
-6 GOVERNANCE.md - Governence, Community, Privacy & Safety Team, Black Box. 
+6 GOVERNANCE.md - Governance, Community, Privacy & Safety Team, Black Box. 
 
 7 PIPELINE_REPORT.md - Pipeline, what is ready, what is worked upon, what will be next. 
 8 READY-LABELED-SETS.md - links, archives, ready files and solutions used in section sets, compilations and distributions/ - to be created when needed.  

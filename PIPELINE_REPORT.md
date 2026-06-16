@@ -1,27 +1,35 @@
-fILES,
-PIPILENE 
-POSTEP
+In this document we have recently finished blocks, WIP sections and two tiers of ucoming to be fixed sections.
 
 
 
-SUMMARY TEC PLUS WHAT TPO DO 
+##What we have.
+
+I have concept sketches for every scenario function, architecture plans, functional blueprints for scenarios, analog and extras, some technical solutions / possible existing technology research. 
+
+##We are here: Phase0. 
+>>Open invitation chain for developers and interested co-creators. Please share with your follow specialists and community.
+
+CNRBOR_TASK(3): Work Methodology & Community Governance and Contribution etc. - discussions and forming final versions of document.s
+
+DEV_TASK(3): Scenarios / MVP Environment and Circumstances, Exact MVP technology selection.  
+
+DEV_TASK(4): Mapping, Division Flow in to Modular Architecture Documentation - from L0 to L4 : framework - general solutions for multiple place implementations (GSMI)  - black box (BB) - modules - plugins. Execution blueprint and coding pipline. 
 
 
-private my own 
-modules 
-security data processing key related solutions 
+Phase 5 & 6. Tests, Optimization of power consumption, longevity of components, time, efficiency, security.| Extantion of Plugin/solution/cusom biulds, packs and hard ware for nodes recommendations. Skill Pack and Online Ressilience Community related implementation.
 
-with some key related topics - short blocks, like: - generators of generators, or encryption-steganography-masking can have limited view version as plugin-i in to used mechanism.
-
-
-
-
-
-
+WORKFLOW
+The flow: declaration of scope and deadline, contribution and open for  validation announcement, after validation the code will be marked, listed, and available for further work. Documentation should be provided before listing, it's recommended that the code should have commentary for easyer testing. During the work on declared fragment it's advised to post updates on used techniques/alternatives so other contributors could know what is being worked on.
 ```
 
 ---
+## Using this document
 
+NEED
+
+WIP
+
+## Reports
 
 
 ---
