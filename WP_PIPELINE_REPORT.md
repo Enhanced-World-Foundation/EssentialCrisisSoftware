@@ -326,3 +326,5 @@ Most communication platforms assume stability. ECS assumes the opposite. The pro
 **What if the internet, telecoms and payment systems stop working?**
 
 The project explores how communities can continue operating using local infrastructure, alternative communication methods and distributed coordination tools.
+
+## Reporting done segments / problems / concerns / SnP Issue / Other.

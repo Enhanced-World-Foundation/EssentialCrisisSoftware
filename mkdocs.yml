@@ -1,0 +1,33 @@
+site_name: Essential Crisis Software (ECS)
+site_description: Open Source Architecture for Crisis Scenarios
+site_url: "" # Tu potem wkleisz link z github pages
+
+# Zmuszamy MkDocs do czytania z głównego folderu, bez przenoszenia plików
+docs_dir: '.'
+site_dir: 'site_build'
+
+theme:
+  name: material
+  palette:
+    # Styl Stanford / Academic: Czysta biel tła i głęboka czerwień akcentów
+    scheme: default
+    primary: red
+    accent: red
+  font:
+    # Merriweather daje ten ciężki, naukowy, "poważny" klimat papierów badawczych
+    text: Merriweather
+    # Roboto Mono dla kodów - idealna czytelność dla Tier 1 devów
+    code: Roboto Mono
+  features:
+    - navigation.tabs # Górne menu zamiast bocznego, daje czystszy wygląd
+
+# Ręczna nawigacja - dzięki temu MkDocs nie wciągnie Ci na stronę 
+# śmieci systemowych czy ukrytych plików. Pokaże tylko to, co ważne.
+nav:
+  - Start: README.md
+  - Tech Overview: 04_OVERVIEW_TECH.md
+  - Scenarios: 03_SCENARIOS.md
+  - Contributing: 02_CONTRIBUTING.md
+  - Governance: 06_GOVERNANCE.md
+  - License: 05_LICENSE.md
+  - Pipeline & Reports: WP_PIPELINE_REPORT.md
