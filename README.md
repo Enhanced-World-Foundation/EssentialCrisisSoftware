@@ -2,7 +2,7 @@
 
 **PRO BONO — I N V I T A T I O N — MESH P2P MODULAR SYSTEM**
 
-> *This is not a thought experiment. — — It is an engineering initiative!*
+> *This software will save lives!*
 
 ## Why the Initiative?
 
@@ -10,7 +10,7 @@ There is a gap in the resilience of nations and societies that is not profitable
 
 ECS is being built as infrastructure of last resort: a modular, easy-to-use system with presets and customized setups. An alternative deployable system that works when nothing else does. The work you can be part of will help communities, nations, relatives—in time of need. All contributors will be credited. For details, see CONTRIBUTION.md.
 
-The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail. Like biulding a submarine, it can be done but a lot have to be put in to so all works as intended. Digital Ark.
+The most resilient network-society is built around decentralization and cooperation (connection). There are solutions for technical problems, but there are plenty of challenges to be solved and optimized—in detail. Like building a submarine, it can be done but a lot have to be put in to so all works as intended. Digital Ark.
 
 ## AI Policy!
 Do not use online AI on whole modules, files or repositories! Feel free to use AI as help on limited fragments / blocks.
@@ -27,7 +27,7 @@ Only locally run models can be used in development of Black Box and Core Framewo
 7 PIPELINE_REPORT.md - Pipeline, what is ready, what is worked upon, what will be next. 
 8 READY-LABELED-SETS.md - links, archives, ready files and solutions used in section sets, compilations and distributions/ - to be created when needed.  
 
-WorkFlow_XXX - are live develompent reporting file. WF_...md
+WorkFlow_XXX - are live development reporting file. WF_...md
 
 
 ## Table of Contents:
@@ -473,6 +473,8 @@ Questions? Reply in GHD, Reddit or Discord thread.
 **Version 1.01** | Last updated: 04 April 2026
 
 ---
+You make it be! This software saves lives.
+Let's make it better, faster and more available.
 
 
                               /
