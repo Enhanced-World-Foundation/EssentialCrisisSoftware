@@ -4,7 +4,7 @@
 
 ## What should be in the MVP? What are the most helpful functionalities?
 
-This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, suplychain distrup ments, blocked internet, disabled phone networks, or unavailable electronic payment systems. A ECS Client MVP will use BLT technology.
+This version should be suited for a short-to-medium crisis—such as a large-scale blackout, natural disaster, supply chain disruptments, blocked internet, disabled phone networks, or unavailable electronic payment systems. A ECS Client MVP will use BLT technology.
 
 WiFi mesh (up 2 km)
     ↓ (fallback)
